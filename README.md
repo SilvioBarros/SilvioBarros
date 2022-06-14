@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @SilvioBarros
+- 👋 Hello, I @SilvioBarros
 - 🌱 I am a student of the technical course of systems development
 - 💞️ I'm looking to collaborate with front-end projects
 - 📫 Please contact me: silviotenorioprofissional@gmail.com
