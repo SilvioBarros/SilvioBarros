@@ -1,6 +1,6 @@
 - 👋 Hello, I @SilvioBarros
 - 📚 I am a student of the technical course of systems development
-- 🙃 I'm looking to collaborate and learn from front-end projects
+- 🙃 I'm looking to collaborate and learn from projects
 - 📫 Please contact me: silviotenorioprofissional@gmail.com
 
 
