@@ -1,8 +1,7 @@
-- 👋 Hello, I @SilvioBarros
-- 📚 I am a student of the technical course of systems development
-- 🙃  I'm looking to collaborate and learn from projects
-- 📫 Please contact me: silviotenorioprofissional@gmail.com
-
+- 👋 Olá, eu sou @SilvioBarros
+- 📚 Eu sou estudante de desenvolvimento de sistemas 
+- 🙃 Procuro aprender e colaborar com projetos full-stack
+- 📫 Entre em contato comigo: silviotenorioprofissional@gmail.com
 
 <!---
 SilvioBarros/SilvioBarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
