@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @SilvioBarros
-- 📚 Eu sou estudante de desenvolvimento de sistemas 
+- 📚 Eu sou estudante de TI e desenvolvedor de sistemas 
 - 🙃 Procuro aprender e colaborar com projetos full-stack
 - 📫 Entre em contato comigo: silviotenorioprofissional@gmail.com
 
