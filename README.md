@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @SilvioTenorio
+- 👋 Olá, eu sou @SilvioBarros
 - 📚 Eu sou estudante de TI e desenvolvedor de sistemas 
 - 🙃 Procuro aprender e colaborar com qualquer tipo de projeto
 - 📫 Entre em contato comigo: silviotenorioprofissional@gmail.com
